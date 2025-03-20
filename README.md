@@ -12,8 +12,7 @@ Ensure to change the path of Cold Turkey; it is generally the same for all Windo
 
 
 ## Acknowledgments
-
-This project is inspired by and based on [Cold-Turkey-Pro-Activator-](https://github.com/Jaat2727/Cold-Turkey-Pro-Activator-) by [Jaat2727](https://github.com/Jaat2727).
+This project is based on [ColdTurkeyBlockerPro-Activator](https://github.com/coderhisham/ColdTurkeyBlockerPro-Activator) by [coderhisham](https://github.com/coderhisham).
 
 My project provides an improved and more robust solution for enabling the PRO features of Cold Turkey Blocker.  It incorporates the core logic for accessing the Cold Turkey database but includes enhancements such as:
 
